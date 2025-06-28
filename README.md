@@ -25,7 +25,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/todo-api-docker.git
+   git clone https://github.com/murzilaka2/todo-api-docker.git
    cd todo-api-docker
 2. Build and start the containers:
    docker-compose up --build
