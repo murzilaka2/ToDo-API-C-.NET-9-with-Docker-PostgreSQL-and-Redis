@@ -28,7 +28,8 @@
    git clone https://github.com/murzilaka2/todo-api-docker.git
    cd todo-api-docker
 2. Build and start the containers:
+   ```bash
    docker-compose up --build
-3. Send request:
+4. Send request:
    http://localhost:5000/api/tasks
    
