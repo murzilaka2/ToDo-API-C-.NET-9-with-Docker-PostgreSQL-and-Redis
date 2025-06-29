@@ -30,7 +30,9 @@
 2. Build and start the containers:
    ```bash
    docker-compose up --build
-4. Send request:
+4. Send request or use Swagger UI:
    ```bash
    http://localhost:5000/api/tasks
+   http://localhost:5000/swagger/index.html
+   
    
